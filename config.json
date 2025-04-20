@@ -1,6 +1,5 @@
 {
-    "browsermob_proxy_path": "/path/to/browsermob-proxy/bin/browsermob-proxy",
-    "selenium_script_path": "your_selenium_script.py",
-    "output_har_filename": "captured_traffic.har",
+    "selenium_script_path": "selenium_test.py",
+    "output_har_filename": "out.har",
     "wait_time_after_script": 2
 }

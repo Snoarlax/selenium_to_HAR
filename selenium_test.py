@@ -3,7 +3,7 @@ Example Selenium script that will be run by the HAR capture wrapper.
 This script must define a 'run' function that accepts a webdriver instance.
 """
 
-def run(driver):
+def run(driver, args):
     """
     This function will be called by the HAR capture wrapper.
     The driver is already configured with the proxy.

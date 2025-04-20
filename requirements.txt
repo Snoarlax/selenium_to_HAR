@@ -1,2 +1,1 @@
-browsermob-proxy==0.8.0
 selenium==4.31.0
